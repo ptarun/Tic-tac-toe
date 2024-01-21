@@ -6,5 +6,42 @@
     background-color: #23272F;
 }
 
+.open-sans-300 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+.big-font {
+    font-size: 200px;
+
+ }
+ .font-50 {
+    font-size: 50px;
+    line-height: 2;
+ }
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined200 {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 24
+  }
+.md-48 { font-size: 48px; }
+
+.margin-left-25{
+    margin-left:25%;  
+}
 
     

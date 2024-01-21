@@ -8,7 +8,7 @@ function PlayerSelect () {
         <div className="text-white  background-dark">
             {isPlayBoard ? 
                
-               <div>  Lets code</div>
+               <div className="center-align  justify-content-cente bg-white">  Lets code</div>
             :
                 <HomeView />
                 
